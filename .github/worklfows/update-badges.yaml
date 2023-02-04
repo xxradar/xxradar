@@ -1,5 +1,4 @@
 name: Update badges
-
 on:
   workflow_dispatch: # run manually
   schedule:
