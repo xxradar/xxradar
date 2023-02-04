@@ -1,4 +1,4 @@
-### Welcome to my github repo. A place where I store and document my research in cloud and kubernetes !!!
+### Welcome to my github repo. A place where I store and document my research in cloud and kubernetes.
 
 Check me out here on: <br>
 - [https://xxradar.medium.com](https://xxradar.medium.com)
