@@ -10,4 +10,4 @@ Last meetup notes and demo's:<br>
 - [https://github.com/xxradar/kubnernetes_training_for_networkengineer](https://github.com/xxradar/kubnernetes_training_for_networkengineer)
 - [https://twitter.com/xxradar](https://twitter.com/xxradar)
 - [https://www.linkedin.com/in/philippebogaerts/](https://www.linkedin.com/in/philippebogaerts/)
-- [Overview of repo's](https://raw.githubusercontent.com/xxradar/xxradar/main/list.md)
+- [Overview of repo's](./list.md)
