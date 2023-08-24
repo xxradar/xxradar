@@ -14,3 +14,4 @@ Last meetup notes and demo's:<br>
 
 List of repo's: <br>
 - [Overview of repo's](./list.md)
+  Note: Interested in a private repo, feel free to contact me.
