@@ -7,6 +7,7 @@ Check me out here on: <br>
 - Old stuff at [https://www.radarhack.com](https://www.radarhack.com)
 
 Last meetup notes and demo's:<br>
+- [https://meetups.kbuisec.tech](https://meetups.kbuisec.tech)
 - [https://github.com/xxradar/k8s_meetup_network_policies](https://github.com/xxradar/k8s_meetup_network_policies)
 - [https://github.com/xxradar/kubnernetes_training_for_networkengineer](https://github.com/xxradar/kubnernetes_training_for_networkengineer)
 - [https://twitter.com/xxradar](https://twitter.com/xxradar)
