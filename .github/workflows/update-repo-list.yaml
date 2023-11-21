@@ -24,7 +24,7 @@ jobs:
         while true; do
           # Send a GET request to the Github API to fetch the list of repositories for the current page
           response=$(curl -s -H "Authorization: token "${{ secrets.GH_TOKEN }} -H "Accept: application/vnd.github+json" "https://api.github.com/user/repos?per_page=100&page=$page&type=owner")
-          echo $response
+          # echo $response
           # If the response is an empty array, we have reached the end of the results
           if [ "$(echo "$response" | jq '. | length')" -eq 0 ]; then
             break
@@ -51,7 +51,7 @@ jobs:
 
         # Check if there are changes
         if ! git diff --quiet; then
-          git add repo_list.md
+          git add list.md
           git commit -m "Update repository list"
           git push
         else
