@@ -46,7 +46,7 @@ jobs:
         # Add repository list to the file
         for i in "${repos[@]}"
         do
-          echo "- [${i}](https://github.com/${i})" >> list.md
+          echo "- [https://github.com/${i}](https://github.com/${i})" >> list.md
         done
 
         # Check if there are changes
