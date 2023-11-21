@@ -41,12 +41,12 @@ jobs:
         done
 
         # Create or clear the file
-        > repo_list.md
+        > list.md
 
         # Add repository list to the file
         for i in "${repos[@]}"
         do
-          echo "- [${i}](https://github.com/${i})" >> repo_list.md
+          echo "- [${i}](https://github.com/${i})" >> list.md
         done
 
         # Check if there are changes
