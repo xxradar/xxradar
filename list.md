@@ -28,6 +28,7 @@
 - [https://github.com/xxradar/debugging_kubernetes](https://github.com/xxradar/debugging_kubernetes)
 - [https://github.com/xxradar/demoscripts](https://github.com/xxradar/demoscripts)
 - [https://github.com/xxradar/demo_repo](https://github.com/xxradar/demo_repo)
+- [https://github.com/xxradar/demo_repo_private_runner](https://github.com/xxradar/demo_repo_private_runner)
 - [https://github.com/xxradar/demo_repo_public](https://github.com/xxradar/demo_repo_public)
 - [https://github.com/xxradar/devsecops-book](https://github.com/xxradar/devsecops-book)
 - [https://github.com/xxradar/dissecting_containers_and_pods](https://github.com/xxradar/dissecting_containers_and_pods)
