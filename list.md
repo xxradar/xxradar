@@ -20,6 +20,7 @@
 - [https://github.com/xxradar/cilium-lab](https://github.com/xxradar/cilium-lab)
 - [https://github.com/xxradar/cilium-training](https://github.com/xxradar/cilium-training)
 - [https://github.com/xxradar/client-go](https://github.com/xxradar/client-go)
+- [https://github.com/xxradar/cnf-debug](https://github.com/xxradar/cnf-debug)
 - [https://github.com/xxradar/cni_multus_examples](https://github.com/xxradar/cni_multus_examples)
 - [https://github.com/xxradar/common](https://github.com/xxradar/common)
 - [https://github.com/xxradar/containers_and_kubernetes_for_dummies](https://github.com/xxradar/containers_and_kubernetes_for_dummies)
