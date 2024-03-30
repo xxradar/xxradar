@@ -3,7 +3,6 @@
 Check me out here on: <br>
 - [https://kubiosec.tech](https://kubiosec.tech)
 - [https://xxradar.medium.com](https://xxradar.medium.com)
-- [https://cloudyuga.guru](https://cloudyuga.guru)
 - Old stuff at [https://www.radarhack.com](https://www.radarhack.com)
 
 Last meetup notes and demo's:<br>
