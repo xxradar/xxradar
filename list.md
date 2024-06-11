@@ -50,7 +50,7 @@
 - [https://github.com/xxradar/Fortigate-AKS-demo](https://github.com/xxradar/Fortigate-AKS-demo)
 - [https://github.com/xxradar/fortigatecnf-api-example](https://github.com/xxradar/fortigatecnf-api-example)
 - [https://github.com/xxradar/fortigate_cft_testing](https://github.com/xxradar/fortigate_cft_testing)
-- [https://github.com/xxradar/fortimanager-api-research](https://github.com/xxradar/fortimanager-api-research)
+- [https://github.com/xxradar/fortinet-api-research](https://github.com/xxradar/fortinet-api-research)
 - [https://github.com/xxradar/fortinet-aws-solutions](https://github.com/xxradar/fortinet-aws-solutions)
 - [https://github.com/xxradar/fortiweb-autoscale-eks](https://github.com/xxradar/fortiweb-autoscale-eks)
 - [https://github.com/xxradar/fortiweb_ingress_ctlr](https://github.com/xxradar/fortiweb_ingress_ctlr)
