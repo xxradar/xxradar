@@ -61,6 +61,7 @@
 - [https://github.com/xxradar/hackingdemo](https://github.com/xxradar/hackingdemo)
 - [https://github.com/xxradar/hands-on-trivy-to-tracee](https://github.com/xxradar/hands-on-trivy-to-tracee)
 - [https://github.com/xxradar/haproxy-tigera-ui](https://github.com/xxradar/haproxy-tigera-ui)
+- [https://github.com/xxradar/holmesgpt](https://github.com/xxradar/holmesgpt)
 - [https://github.com/xxradar/httpdtoslack](https://github.com/xxradar/httpdtoslack)
 - [https://github.com/xxradar/ingress_kubernetes_workshop](https://github.com/xxradar/ingress_kubernetes_workshop)
 - [https://github.com/xxradar/install-fortinet-integration](https://github.com/xxradar/install-fortinet-integration)
