@@ -62,6 +62,7 @@
 - [https://github.com/xxradar/github-actions-goat](https://github.com/xxradar/github-actions-goat)
 - [https://github.com/xxradar/github_lab_env](https://github.com/xxradar/github_lab_env)
 - [https://github.com/xxradar/gitlab-demo](https://github.com/xxradar/gitlab-demo)
+- [https://github.com/xxradar/google_research](https://github.com/xxradar/google_research)
 - [https://github.com/xxradar/hackingdemo](https://github.com/xxradar/hackingdemo)
 - [https://github.com/xxradar/hands-on-trivy-to-tracee](https://github.com/xxradar/hands-on-trivy-to-tracee)
 - [https://github.com/xxradar/haproxy-tigera-ui](https://github.com/xxradar/haproxy-tigera-ui)
