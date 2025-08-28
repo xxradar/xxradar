@@ -1,6 +1,7 @@
 - [https://github.com/xxradar/agentic-coding-demo](https://github.com/xxradar/agentic-coding-demo)
 - [https://github.com/xxradar/agentic-coding-demo-v2](https://github.com/xxradar/agentic-coding-demo-v2)
 - [https://github.com/xxradar/agentic-labs-playground](https://github.com/xxradar/agentic-labs-playground)
+- [https://github.com/xxradar/aideveu25-llm-obs](https://github.com/xxradar/aideveu25-llm-obs)
 - [https://github.com/xxradar/AKS_deepdive](https://github.com/xxradar/AKS_deepdive)
 - [https://github.com/xxradar/aks_training](https://github.com/xxradar/aks_training)
 - [https://github.com/xxradar/api_examples](https://github.com/xxradar/api_examples)
