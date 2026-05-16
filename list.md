@@ -29,7 +29,7 @@
 - [https://github.com/xxradar/bcc](https://github.com/xxradar/bcc)
 - [https://github.com/xxradar/blogs_and_posts](https://github.com/xxradar/blogs_and_posts)
 - [https://github.com/xxradar/cfos](https://github.com/xxradar/cfos)
-- [https://github.com/xxradar/chat_agents_analysis](https://github.com/xxradar/chat_agents_analysis)
+- [https://github.com/xxradar/chat_agent_analysis](https://github.com/xxradar/chat_agent_analysis)
 - [https://github.com/xxradar/cicd_demo_setup](https://github.com/xxradar/cicd_demo_setup)
 - [https://github.com/xxradar/cilium-aws-ipam-eni](https://github.com/xxradar/cilium-aws-ipam-eni)
 - [https://github.com/xxradar/cilium-clustermesh-multi-region-with-fortigate](https://github.com/xxradar/cilium-clustermesh-multi-region-with-fortigate)
